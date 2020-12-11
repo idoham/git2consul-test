@@ -2,4 +2,4 @@ services:
   apache:
     port: 80
   ssh:
-    port: 222
+    port: 22222222
